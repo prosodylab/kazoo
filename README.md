@@ -1,2 +1,2 @@
 # kazoo
-kazoo logo of prosodylab
+kazoo logo and favicon of prosodylab
